@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## I am  a CyberSecurity Learner.
+![TryHackMe Stats](https://githubusercontent.com)
+
