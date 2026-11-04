@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## I am  a CyberSecurity Learner.
+<script src="https://tryhackme.com/badge/t/232e8bdcff8ee8dd67fb5092b7fb917b0d07d12d543cf0ff43150c712373b4a4de321d841e9a9340a8747a125b63c7ea?theme=dark"></script>
