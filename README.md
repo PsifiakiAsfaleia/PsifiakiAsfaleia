@@ -15,5 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## I am  a CyberSecurity Learner.
-![TryHackMe Stats](https://githubusercontent.com)
+<a href="https://tryhackme.com">
+  <img src="https://tryhackme.com/badge/t/9a17a7abeed89b49f43204fd20abb4783cb77adecbe9f2064245bf515a1b706fc98d03b8410ad0cad67703d95c128ce8?theme=dark" alt="TryHackMe Profile Badge" width="400" />
+</a>
 
