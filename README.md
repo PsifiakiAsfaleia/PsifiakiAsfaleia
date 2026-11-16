@@ -15,7 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## I am  a CyberSecurity Learner.
-<a href="https://tryhackme.com">
-  <img src="https://cdn-images.tryhackme.com/public-profile/Psifiaki/badge-dark-86c6cb221ef2.png" alt="Psifiaki's TryHackMe badge." width="400">
-</a>
+
 
